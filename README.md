@@ -11,7 +11,7 @@ To register a key pair for use with the SafetyNet reCAPTCHA API, navigate to the
 ### 2. Add dependency
 ```groovy
 dependencies {
-    implementation "com.tomasznajda.rxrecaptcha:rxrecaptcha:16.0.0.2"
+    implementation "com.steeleram.rxrecaptcha:rxrecaptcha:16.0.0.2"
 }
 ```
 
